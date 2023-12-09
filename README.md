@@ -1,5 +1,5 @@
 # HACKS INTRO GIT
-
+Cada enlace tiene la solución al hack correspondiente
 - [Hack1](https://github.com/manuelzamdev/git_h-1)
 - [Hack2](https://github.com/manuelzamdev/git_h-2)
 - [Hack3](https://github.com/manuelzamdev/git_h-3)
